@@ -17,29 +17,25 @@
 
 ✍️ 基于Golang开发的数据结构库
 
-这个库提供了一些常见的数据结构模板库，采用Golang的泛型编程。
-
+[https://github.com/xzhHas/tools](https://github.com/xzhHas/tools)
 
 🍻 基于Golang和Vue搭建的基于微服务一个前后端分离的校园易购电商系统
-
-golang+vue搭建的基于微服务一个前后端分离的校园易购电商系统，只要本机搭建有虚拟机或云服务器或docker desktop即可快速启动。
 
 [https://github.com/xzhHas/yg](https://github.com/xzhHas/yg)
 
 ⚡ 基于 kratos 的短链生成系统
 
-基于 Kratos 的短链生成系统旨在提供简单易用、高效可靠的短链接服务。
+[https://github.com/xzhHas/ShortChain](https://github.com/xzhHas/ShortChain)
 
 🌱 基于 kratos 的定时微服务项目
 
-基于 Kratos 的定时微服务项目是一个高效的调度系统，用于定期执行任务和自动化流程管理，支持灵活配置和监控。
-
+[]()
 
 ✏️ 基于 Golang 和 Vue3 的博客系统
 
-基于枫枫知道的博客二次开发项目。
+[https://github.com/xzhHas/ginblog-wanli](https://github.com/xzhHas/ginblog-wanli)
 
 ✨基于 IRIS 框架和 Vue3 的开源社区系统
 
-基于bbs-go二次开发的系统，这个项目提供友好的用户体验和强大的功能，方便用户进行交流和互动。
+[]()
 
