@@ -1,9 +1,8 @@
 #### Yoo, I'm xzhHas 👋
 
-一名Golang后端开发程序员，同时略懂Vue与React前端技术，也了解一点微信小程序开发。
-
-对计算机充满兴趣，愿意并且希望学习更多的技术，接触更多的大神，提高自己的编程思维逻辑能力。
-
+ 一名后端开发小趴菜，同时略懂Vue与React前端技术，也了解一点微信小程序开发。
+ 
+ 对计算机充满兴趣，愿意并且希望学习更多的技术，接触更多的大神，提高自己的编程思维和解决问题的能力。
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xzhHas&show_icons=true&theme=tokyonight" /> </div>
 
