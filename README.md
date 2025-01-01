@@ -4,7 +4,7 @@
  
  对计算机充满兴趣，愿意并且希望学习更多的技术，接触更多的大神，提高自己的编程思维和解决问题的能力。
 
-我的学习笔记：[CSDN]([https://github.com/xzhHas/ShortChain](https://blog.csdn.net/m0_73337964?spm=1000.2115.3001.5343))  | [掘金](https://juejin.cn/user/3670599898497324) | [b站](https://space.bilibili.com/1829444123?spm_id_from=333.1007.0.0) | [知乎](https://www.zhihu.com/people/80-58-74-7)
+我的学习笔记：[CSDN](https://blog.csdn.net/m0_73337964?spm=1000.2115.3001.5343))  | [掘金](https://juejin.cn/user/3670599898497324) | [b站](https://space.bilibili.com/1829444123?spm_id_from=333.1007.0.0) | [知乎](https://www.zhihu.com/people/80-58-74-7)
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xzhHas&show_icons=true&theme=tokyonight" /> </div>
 
