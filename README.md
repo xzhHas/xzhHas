@@ -8,6 +8,14 @@
 
 最近研究的一些项目：
 
+⚡ 基于 kratos 的短链生成系统（待完善）
+
+[https://github.com/xzhHas/ShortChain](https://github.com/xzhHas/ShortChain)
+
+✏️ 基于 Golang 和 Vue3 的博客系统（已开发完成，后续维护，未上线）
+
+[https://github.com/xzhHas/ginblog-wanli](https://github.com/xzhHas/ginblog-wanli)
+
 ✍️ 基于Golang开发的数据结构库（碎片）
 
 [https://github.com/xzhHas/shard](https://github.com/xzhHas/shard)
@@ -16,22 +24,3 @@
 
 [https://github.com/xzhHas/yg](https://github.com/xzhHas/yg)
 
-⚡ 基于 kratos 的短链生成系统（待完善）
-
-[https://github.com/xzhHas/ShortChain](https://github.com/xzhHas/ShortChain)
-
-🌱 基于 kratos 的定时微服务项目（待完善）
-
-[https://github.com/xzhHas/TimeService](https://github.com/xzhHas/TimeService)
-
-✏️ 基于 Golang 和 Vue3 的博客系统（已开发完成，后续维护，未上线）
-
-[https://github.com/xzhHas/ginblog-wanli](https://github.com/xzhHas/ginblog-wanli)
-
-✨基于 IRIS 框架和 Vue3 的开源社区系统（待上线）
-
-[https://github.com/xzhHas/Renaispace](https://github.com/xzhHas/Renaispace)
-
-🎖 使用开源主题vuepress-theme-reco搭建的一个编程导航（已上线）
-
-[https://github.com/xzhHas/RENAIGO](https://github.com/xzhHas/RENAIGO)
