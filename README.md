@@ -8,7 +8,7 @@
 
 最近研究的一些项目：
 
-⚡ 基于 kratos 的短链生成系统（待完善）
+⚡ 基于 kratos 的短链生成系统（已上线）
 
 [https://github.com/xzhHas/ShortChain](https://github.com/xzhHas/ShortChain)
 
