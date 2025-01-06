@@ -4,6 +4,8 @@
 
 我的学习笔记：[CSDN](https://blog.csdn.net/m0_73337964?spm=1000.2115.3001.5343))  | [掘金](https://juejin.cn/user/3670599898497324) | [b站](https://space.bilibili.com/1829444123?spm_id_from=333.1007.0.0) | [知乎](https://www.zhihu.com/people/80-58-74-7)
 
+微信公众号关注：GolangCode
+
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xzhHas&show_icons=true&theme=tokyonight" /> </div>
 
 最近研究的一些项目：
