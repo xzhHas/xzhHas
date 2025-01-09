@@ -10,9 +10,9 @@
 
 最近研究的一些项目：
 
-⚡ 基于 kratos 的短链生成系统（已上线）
+⚡ GolangCode 一个专注于Golang后端开发的学习笔记记录网站（已上线）
 
-[https://github.com/xzhHas/ShortChain](https://github.com/xzhHas/ShortChain)
+[https://github.com/xzhHas/GolangCode](https://github.com/xzhHas/GolangCode)
 
 ✏️ 基于 Golang 和 Vue3 的博客系统（已开发完成，后续维护，未上线）
 
