@@ -32,4 +32,4 @@
 
 一些最新的博客和笔记都会在微信公众号：**GolangCode** 首发，有需要可以关注一下。
 
-![gongzhognhao](./images/vxgongzhognhao.jpg)
+![gongzhognhao](./images/vx258.png)
