@@ -27,9 +27,14 @@
 
 [https://github.com/xzhHas/yg](https://github.com/xzhHas/yg)
 
+💯 基于kratos框架构建一个基于雪花算法+Redis+MySQL的短链系统(已上线)
+
+[https://github.com/xzhHas/ShortChain](https://github.com/xzhHas/ShortChain)
 
 ---
 
-一些最新的博客和笔记都会在微信公众号：**GolangCode** 首发，有需要可以关注一下。
+微信搜 **GolangCode** 或扫描下方二维码关注golangcode的公众号，可以第一时间收到文章的更新以及相关的课程设计报告内容。
+
+后续会将面试题以及学习笔记整合成PDF文件发布。🔥
 
 ![gongzhognhao](./images/vx258.png)
