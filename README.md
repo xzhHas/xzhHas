@@ -11,10 +11,6 @@
 
 最近研究的一些项目：
 
-⚡ GolangCode 一个专注于Golang后端开发的学习笔记记录网站
-
-[https://github.com/xzhHas/GolangCode](https://github.com/xzhHas/GolangCode)
-
 ✏️ 基于 Golang 和 Vue3 的博客系统
 
 [https://github.com/xzhHas/ginblog-wanli](https://github.com/xzhHas/ginblog-wanli)
