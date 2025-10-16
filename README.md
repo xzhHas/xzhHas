@@ -23,3 +23,7 @@
 
 [https://github.com/xzhHas/ShortChain](https://github.com/xzhHas/ShortChain)
 
+
+✏️ 基于kratos框架构建一个基于雪花算法+Redis+MySQL的短链系统
+
+[https://github.com/xzhHas/TaskScheduler](https://github.com/xzhHas/TaskScheduler)
