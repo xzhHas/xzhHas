@@ -11,6 +11,10 @@
 
 最近研究的一些项目：
 
+✏️ 一个基于Go语言实现的订阅binlog解决缓存不一致问题的轻量级开源库
+
+[https://github.com/xzhHas/cacheflow](https://github.com/xzhHas/cacheflow)
+
 ✏️ 基于 Golang 和 Vue3 的博客系统
 
 [https://github.com/xzhHas/ginblog-wanli](https://github.com/xzhHas/ginblog-wanli)
